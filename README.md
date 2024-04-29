@@ -1,1 +1,1 @@
-# msc_aerobotics_24S
+# Aerobotics Seminar Uni Stuttgart 24S
